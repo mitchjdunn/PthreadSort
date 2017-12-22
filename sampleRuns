@@ -1,0 +1,67 @@
+./sortMerge.out 2 /home/mitch/Documents/fall\ 2017/operating\ systems/Project/data_512k
+cores: 8
+number of threads 2
+file to sort /home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+/home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+Time spent: 0.367197
+./sortMerge.out 4 /home/mitch/Documents/fall\ 2017/operating\ systems/Project/data_512k
+cores: 8
+number of threads 4
+file to sort /home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+/home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+Time spent: 0.421130
+./sortMerge.out 8 /home/mitch/Documents/fall\ 2017/operating\ systems/Project/data_512k
+cores: 8
+number of threads 8
+file to sort /home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+/home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+Time spent: 0.659989
+./sortMerge.out 16 /home/mitch/Documents/fall\ 2017/operating\ systems/Project/data_512k
+cores: 8
+number of threads 16
+file to sort /home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+/home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+Time spent: 0.471193
+./sortMerge.out 32 /home/mitch/Documents/fall\ 2017/operating\ systems/Project/data_512k
+cores: 8
+number of threads 32
+file to sort /home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+/home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+Time spent: 0.394346
+./sortMerge.out 64 /home/mitch/Documents/fall\ 2017/operating\ systems/Project/data_512k
+cores: 8
+number of threads 64
+file to sort /home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+/home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+Time spent: 0.459492
+./sortMerge.out 128 /home/mitch/Documents/fall\ 2017/operating\ systems/Project/data_512k
+cores: 8
+number of threads 128
+file to sort /home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+/home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+Time spent: 0.494403
+./sortMerge.out 256 /home/mitch/Documents/fall\ 2017/operating\ systems/Project/data_512k
+cores: 8
+number of threads 256
+file to sort /home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+/home/mitch/Documents/fall 2017/operating systems/Project/data_512k
+Time spent: 0.535568
+./sortMerge.h 8 /home/mitch/Documents/fall\ 2017/operating\ systems/Project/data_128
+cores: 8
+number of threads 8
+file to sort /home/mitch/Documents/fall 2017/operating systems/Project/data_128
+/home/mitch/Documents/fall 2017/operating systems/Project/data_128
+Time spent: 0.002478
+./sortMerge.h 4 /home/mitch/Documents/fall\ 2017/operating\ systems/Project/data_128
+cores: 8
+number of threads 4
+file to sort /home/mitch/Documents/fall 2017/operating systems/Project/data_128
+/home/mitch/Documents/fall 2017/operating systems/Project/data_128
+Time spent: 0.001220
+./sortMerge.h 2 /home/mitch/Documents/fall\ 2017/operating\ systems/Project/data_128
+cores: 8
+number of threads 2
+file to sort /home/mitch/Documents/fall 2017/operating systems/Project/data_128
+/home/mitch/Documents/fall 2017/operating systems/Project/data_128
+Time spent: 0.000802
+
